@@ -3,38 +3,38 @@
 	<div class="row">
 		<div class="card col-3">
 			<figure>
-				<img src="img/p1.jpg" alt="img"/>
+				<img src="p1.jpg" alt="img"/>
 				<figcaption>Image1</figcaption>
 			</figure>
 		</div>
 		<div class="card col-3">
 			<figure>
-				<img src="img/p2.jpg" alt="img"/>
+				<img src="p2.jpg" alt="img"/>
 				<figcaption>Image1</figcaption>
 			</figure>
 		</div>
 		<div class="card col-3">
 			<figure>
-				<img src="img/p3.jpg" alt="img"/>
+				<img src="p3.jpg" alt="img"/>
 				<figcaption>Image1</figcaption>
 			</figure>
 		</div>
 	
 		<div class="card col-3">
 			<figure>
-				<img src="img/p4.jpg" alt="img"/>
+				<img src="p4.jpg" alt="img"/>
 				<figcaption>Image1</figcaption>
 			</figure>
 		</div>
 		<div class="card col-3">
 			<figure>
-				<img src="img/p5.jpg" alt="img"/>
+				<img src="p5.jpg" alt="img"/>
 				<figcaption>Image1</figcaption>
 			</figure>
 		</div>
 		<div class="card col-3">
 			<figure>
-				<img src="img/p6.jpg" alt="img"/>
+				<img src="p6.jpg" alt="img"/>
 				<figcaption>Image1</figcaption>
 			</figure>
 		</div>
