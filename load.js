@@ -9,12 +9,12 @@ const content_load = function(clickedvalue){
 	{
 
 		case 'index' :
-			url = "partials/articals.txt"
+			url = "articals.txt"
 			break;
 
 		case 'portfolio':
 			
-			url = "partials/portfolio.txt";
+			url = "portfolio.txt";
 			break;
 
 		default:
