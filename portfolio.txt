@@ -1,0 +1,46 @@
+<div class="fixed">
+	<h1>Portfolio</h1>
+	<div class="row">
+		<div class="card col-3">
+			<figure>
+				<img src="img/p1.jpg" alt="img"/>
+				<figcaption>Image1</figcaption>
+			</figure>
+		</div>
+		<div class="card col-3">
+			<figure>
+				<img src="img/p2.jpg" alt="img"/>
+				<figcaption>Image1</figcaption>
+			</figure>
+		</div>
+		<div class="card col-3">
+			<figure>
+				<img src="img/p3.jpg" alt="img"/>
+				<figcaption>Image1</figcaption>
+			</figure>
+		</div>
+	
+		<div class="card col-3">
+			<figure>
+				<img src="img/p4.jpg" alt="img"/>
+				<figcaption>Image1</figcaption>
+			</figure>
+		</div>
+		<div class="card col-3">
+			<figure>
+				<img src="img/p5.jpg" alt="img"/>
+				<figcaption>Image1</figcaption>
+			</figure>
+		</div>
+		<div class="card col-3">
+			<figure>
+				<img src="img/p6.jpg" alt="img"/>
+				<figcaption>Image1</figcaption>
+			</figure>
+		</div>
+		
+		
+	</div>
+	<!-- row close -->
+</div>
+<!-- fixed close -->
