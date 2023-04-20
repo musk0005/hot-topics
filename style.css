@@ -31,7 +31,7 @@ header
 {
 	padding: 1rem 0 0 0;
 	
-	color: #AEE8B4;
+	color: #B02CE8;
 	
 }
 .row
@@ -68,14 +68,14 @@ nav a
 	background-color: rgba( 215, 255, 204,0.3);
 	padding: 0.2rem 1rem;
 	display: inline-block;
-	color:#AEE8B4;
+	color:#B02CE8;
 }
 #masthead
 {
 	background-image:url(bgformasthead.jpg);
 	padding:2rem 2rem;
 	background-position: center;
-	color:#FAFFBF;
+	color:#B02CE8;
 	order:3;
 	flex-basis: 100%;
 }
@@ -88,11 +88,11 @@ nav a
 }
 .articles h1
 {
-	color:#CFE8AE;
+	color:#B02CE8;
 }
 figcaption
 {
-	color:#CFE8AE;
+	color:#B02CE8;
 	text-align: center;
 	font-weight: bold;
 }
@@ -119,7 +119,7 @@ figure
 }
 .articles
 {
-	border-bottom: 1px solid #BFFFD8;
+	border-bottom: 1px solid #B02CE8;
 }
 .articles P
 {
@@ -129,7 +129,7 @@ figure
 footer
 {
 	
-	color:#AEE8B4;
+	color:#B02CE8;
 	padding: 1rem 0;
 }
 footer a
@@ -176,7 +176,7 @@ img
 /* Color Theme Swatches in Hex */
 /*
 #BFFFD8
-#AEE8B4
+#B02CE8
 #D7FFCC
 #CFE8AE
 #FAFFBF
@@ -264,7 +264,7 @@ img
 		background-image: none;
 		order:2;
 		padding: 0px;
-		color: #AEE8B4;
+		color: #B02CE8;
 	}
 	#masthead p
 	{
