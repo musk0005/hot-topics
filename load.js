@@ -1,6 +1,6 @@
 const container = document.querySelector('#maincontent');
 const links= document.querySelector("nav").querySelectorAll('a');
-let url = "partials/articals.txt";
+let url = "articals.txt";
 
 const content_load = function(clickedvalue){
 
@@ -9,12 +9,12 @@ const content_load = function(clickedvalue){
 	{
 
 		case 'index' :
-			url = "articals.html"
+			url = "articals.txt"
 			break;
 
 		case 'portfolio':
 			
-			url = "portfolio.html";
+			url = "portfolio.txt";
 			break;
 
 		default:
