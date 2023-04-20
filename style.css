@@ -65,7 +65,7 @@ nav
 nav a
 {
 	margin: 0px 1rem;
-	background-color: rgba( 215, 255, 204,0.3);
+	background-color: RGBa( 212, 145, 221,0.3);
 	padding: 0.2rem 1rem;
 	display: inline-block;
 	color:#8917F4;
