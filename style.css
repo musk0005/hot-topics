@@ -76,7 +76,7 @@ nav a
 	background-image:url(bgformasthead.jpg);
 	padding:2rem 2rem;
 	background-position: center;
-	color:#8917F4;
+	color:white;
 	order:3;
 	flex-basis: 100%;
 }
