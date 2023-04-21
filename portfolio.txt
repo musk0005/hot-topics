@@ -4,38 +4,38 @@
 		<div class="card col-3">
 			<figure>
 				<img src="p1.png" alt="img"/>
-				<figcaption>Image1</figcaption>
+				<figcaption>Photography</figcaption>
 			</figure>
 		</div>
 		<div class="card col-3">
 			<figure>
 				<img src="p2.png" alt="img"/>
-				<figcaption>Image1</figcaption>
+				<figcaption>Photography</figcaption>
 			</figure>
 		</div>
 		<div class="card col-3">
 			<figure>
 				<img src="p3.jpg" alt="img"/>
-				<figcaption>Image1</figcaption>
+				<figcaption>Magazine Design</figcaption>
 			</figure>
 		</div>
 	
 		<div class="card col-3">
 			<figure>
 				<img src="p4.jpg" alt="img"/>
-				<figcaption>Image1</figcaption>
+				<figcaption>Moodboard</figcaption>
 			</figure>
 		</div>
 		<div class="card col-3">
 			<figure>
 				<img src="p5.jpg" alt="img"/>
-				<figcaption>Image1</figcaption>
+				<figcaption>Branding Package</figcaption>
 			</figure>
 		</div>
 		<div class="card col-3">
 			<figure>
 				<img src="p6.jpg" alt="img"/>
-				<figcaption>Image1</figcaption>
+				<figcaption>Moodboard</figcaption>
 			</figure>
 		</div>
 		
