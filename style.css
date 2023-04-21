@@ -4,13 +4,13 @@ body
 	margin: 0px;
 	font-size: 1.25rem;
 	position: relative;
-	font-family: 'Schibsted Grotesk', sans-serif;
+	font-family: 'Luckiest Guy', cursive;
 	line-height: 1.6;
 }
 
 h1,h2,h3,h4,h5,h6
 {
-	font-family: 'Playfair Display', serif;
+	font-family: 'Luckiest Guy', cursive;
 }
 #maincontent
 {
